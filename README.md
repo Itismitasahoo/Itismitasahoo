@@ -4,7 +4,7 @@
 <img src="./assets/name-animation.gif" width="100%" alt="Itismita Sahoo" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B7CFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+MongoDB;Always+building+and+learning+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=8B7CFF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;React.js+Developer+%E2%9A%9B%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%8D;Software+Engineer+in+the+Making+%E2%9C%A8" />
 
 <br/>
 
