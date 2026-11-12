@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Itismita%20Sahoo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=60&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+with+JavaScript+%26+React;Exploring+Open+Source;Learning+AI%2FML;Turning+ideas+into+working+apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Building+with+JavaScript+%26+React;Turning+ideas+into+working+apps" />
 
 [LinkedIn](https://linkedin.com/in/itismitasahoo) · [GitHub](https://github.com/Itismitasahoo)
 
