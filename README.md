@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Itismita Sahoo**, a Computer Science student at **OUTR, Bhubaneswar** who enjoys building things for the web and figuring out how they work.
+Hey! I'm **Itismita Sahoo**, a Computer Science student at **OUTR, Bhubaneswar** who enjoys building things for the web and understanding how they work behind the scenes.
 
 I'm interested in full-stack development, open source and exploring new areas of technology.
 
@@ -51,7 +51,7 @@ I'm interested in full-stack development, open source and exploring new areas of
 
 ### 🎥 [Confera](https://github.com/Itismitasahoo/Confera)
 
-A real-time video meeting application with:
+A real-time video meeting application featuring:
 
 - Multi-participant video calls
 - Screen sharing and live chat
@@ -74,7 +74,7 @@ An Airbnb-inspired vacation rental platform featuring:
 - Secure authentication
 - Image uploads and interactive maps
 
-**Tech:** Node.js · Express · MongoDB · EJS · Cloudinary · Mapbox
+**Tech:** Node.js · Express · MongoDB · EJS · Passport.js · Cloudinary · Mapbox
 
 </td>
 </tr>
@@ -90,10 +90,6 @@ A multi-page trading platform UI inspired by Zerodha.
 - Responsive layouts
 
 **Tech:** React · JavaScript · React Router · Bootstrap
-
-</td>
-<td width="50%" valign="top">
-
 
 </td>
 </tr>
@@ -135,7 +131,6 @@ A multi-page trading platform UI inspired by Zerodha.
 </a>
 
 <br/><br/>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
