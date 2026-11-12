@@ -45,13 +45,15 @@ I'm interested in full-stack development, open source and exploring new areas of
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🎥 [Confera](https://github.com/Itismitasahoo/Confera)
 
-A real-time video meeting application featuring:
+Real-time video meetings featuring:
 
 - Multi-participant video calls
 - Screen sharing and live chat
@@ -63,7 +65,7 @@ A real-time video meeting application featuring:
 [Live Demo](https://confera-peach.vercel.app/)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏡 [WanderStay](https://github.com/Itismitasahoo/WanderStay)
 
@@ -77,9 +79,7 @@ An Airbnb-inspired vacation rental platform featuring:
 **Tech:** Node.js · Express · MongoDB · EJS · Passport.js · Cloudinary · Mapbox
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📈 [Zerodha Clone](https://github.com/Itismitasahoo/Zerodha-Clone)
 
@@ -95,15 +95,18 @@ A multi-page trading platform UI inspired by Zerodha.
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Itismitasahoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itismitasahoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itismitasahoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itismitasahoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+<br/><br/>
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itismitasahoo&theme=tokyonight&hide_border=true&background=0f0c29" />
 
